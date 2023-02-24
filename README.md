@@ -1,5 +1,5 @@
 # **Gerador de registros CSV**
-Script para a criação de um mock csv de 20.000.000 de registros.
+Script para gerar um csv com a quantidade passada pelo usuário. Será gerado id,name.
 
 Para ver um modelo de dados [clique aqui](https://github.com/cortelucas/mock_csv_file/blob/main/data/records.zip)
 
@@ -22,7 +22,7 @@ Para ver um modelo de dados [clique aqui](https://github.com/cortelucas/mock_csv
 <br><br>
 
 # **CSV record generator**
-Script for creating a mock csv of 20,000,000 records.
+Script to generate a csv with the amount passed by the user. id,name will be generated.
 
 To see a data model [click here](https://github.com/cortelucas/mock_csv_file/blob/main/data/records.zip)
 
