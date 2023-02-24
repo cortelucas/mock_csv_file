@@ -1,6 +1,8 @@
 # **Gerador de registros CSV**
 Script para a criação de um mock csv de 20.000.000 de registros.
 
+Para ver um modelo de dados [clique aqui](https://github.com/cortelucas/mock_csv_file/blob/main/data/records.zip)
+
 **Para utilizar:**
 
 - Clone o repositório:
@@ -21,6 +23,8 @@ Script para a criação de um mock csv de 20.000.000 de registros.
 
 # **CSV record generator**
 Script for creating a mock csv of 20,000,000 records.
+
+To see a data model [click here](https://github.com/cortelucas/mock_csv_file/blob/main/data/records.zip)
 
 **To use*:*
 - Clone the repository:
