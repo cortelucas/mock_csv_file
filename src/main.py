@@ -3,7 +3,7 @@ from faker import Faker
 
 fake = Faker("pt_BR")
 
-number_of_records: int = 20000000
+number_of_records: int = int(input("Insira o número de registros que quer gerar: "))
 
 with open("data/records.csv", mode="w", newline="") as file:
     writer = csv.writer(file)
